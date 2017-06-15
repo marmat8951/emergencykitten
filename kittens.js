@@ -310,5 +310,11 @@ var kittens = [
     "title": "kittens (8) by Jane Williams, on Flickr",
     "imageUrl": "http://farm4.staticflickr.com/3765/9301063123_0bac05c8ac_b.jpg",
     "imageAlt": "Two orange tabby kittens playing in grass."
+  },
+  {
+    "url": "https://pixabay.com/p-482886/",
+    "title": "kittens",
+    "imageUrl": "http://emergency.marmat.ovh/img/chatons.jpg",
+    "imageAlt": "Two kittens playing in the grass"
   }
 ];
