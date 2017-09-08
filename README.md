@@ -1,7 +1,7 @@
 Emergency Kitten!
 =================
 
-This is the code behind <http://www.emergencykitten.com/>. It's an HTML page
+This is the code behind <http://www.emergencykitten.com/> and <http://ekitten.marmat.ovh/>. It's an HTML page
 with some JavaScript. Because kittens are simple like that.
 
 
